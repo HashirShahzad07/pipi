@@ -13,6 +13,7 @@ div#n2-ss-7 .n2-font-adbc107b1f4663232ef4f3757ea74d10-hover {
 
 div#n2-ss-7 .n2-font-1dbf468d48ab1a6728e19ae062432d52-link a {
     background: #caaf47;
+    border-color: black !important;
 }
 div#n2-ss-8 .n2-ss-slider-3 {
     background: #caaf47;
@@ -27,4 +28,12 @@ div#n2-ss-9 .n-uc-11a61d3007b6e-inner {
 
 div#n2-ss-9 .n2-font-1dbf468d48ab1a6728e19ae062432d52-link a {
     background: #caaf47;
+    border-color: black;
+}
+div#n2-ss-9 .n2-font-1dbf468d48ab1a6728e19ae062432d52-link a:hover {
+    background: black !important;
+}
+
+div#n2-ss-7 .n2-font-1dbf468d48ab1a6728e19ae062432d52-link a:hover {
+    background: black !IMPORTANT;
 }
