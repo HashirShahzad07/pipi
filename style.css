@@ -1,6 +1,6 @@
-img#n2-ss-7item1 {
+/* img#n2-ss-7item1 {
     border-radius: 50%;
-}
+} */
 img#n2-ss-7item12 {
     border-radius: 50%;
 }
@@ -39,4 +39,21 @@ div#n2-ss-7 .n2-font-1dbf468d48ab1a6728e19ae062432d52-link a:hover {
 }
 img#n2-ss-9item6 {
     border-radius: 50%;
+}
+div#n2-ss-7 .n-uc-19e2d3e559d6e {
+    transform: scale(1.5);
+}
+
+
+@media (max-width: 480px) {
+    div#n2-ss-7 .n2-font-adbc107b1f4663232ef4f3757ea74d10-hover {
+        text-align: center;
+    }
+    
+    div#n2-ss-7 .n-uc-19e2d3e559d6e {
+        transform: unset;
+    }
+
+
+
 }
